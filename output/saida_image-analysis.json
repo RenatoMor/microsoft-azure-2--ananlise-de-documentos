@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "b046b9ee-c78b-4b6a-8164-cd6bf2de8d3c",
+    "comprimento do conteúdo": "170",
+    "content-type": "aplicativo/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "um grupo de pessoas dançando em um estúdio de dança",
+      "confiança": 0.8295659422874451
+    },
+    "metadados": {
+      "largura": 653,
+      "altura": 390
+    }
+  }
